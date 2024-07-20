@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "express": "^4.17.1",
+    "netlify-cli": "^17.33.4"
+  }
+}
